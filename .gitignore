@@ -12,6 +12,7 @@ data/raw/
 *.csv
 *.mat
 *.dat
+*.pdf
 
 # 운영체제 및 기타
 .DS_Store
